@@ -10,11 +10,11 @@ The dashboard highlights medal trends, country performance, sport dominance, and
 - DAX
 
 ## 🔍 Key Analysis
-- Total medals and medal-type distribution
-- Top medal-winning countries and sports
-- Year-wise medal trends (1896–2024)
-- Gender-wise medal distribution
-- Country, sport & medalist-level insights
+- Identified top medal-winning countries across Olympic history
+- Highlighted dominant sports contributing the highest medal share
+- Observed long-term growth trends in total medals over time
+- Analyzed gender-wise participation and medal distribution
+
 
 ## 📁 Project Structure
 - `/data` – Dataset files
