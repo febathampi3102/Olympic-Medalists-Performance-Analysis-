@@ -24,9 +24,9 @@ The dashboard highlights medal trends, country performance, sport dominance, and
 ## 📸 Dashboard Preview
 
 -  Overview Page
-    ![Overview](Screenshots/overview.png)
+    ![Overview](Screenshots/Overview.png)
 -  Country, Sport & Medalist Analysis
-    ![Details](Screenshots/country_sport_medalist.png)
+    ![Details](Screenshots/Country_Analysis.png)
 
 
 ## 🚀 How to Use
