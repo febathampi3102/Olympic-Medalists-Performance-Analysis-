@@ -1,4 +1,4 @@
-# 🏅 Olympics Medalist Performance Analysis Dashboard (1896–2024)
+# 🏅 Olympics Medalists Performance Analysis Dashboard (1896–2024)
 
 ## 📊 Project Overview
 This project presents an end-to-end data analysis of Olympic medal data using Power BI.
