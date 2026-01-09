@@ -21,6 +21,14 @@ The dashboard highlights medal trends, country performance, sport dominance, and
 - `/dashboard` – Power BI (.pbix) file
 - `/screenshots` – Dashboard images
 
+## 📸 Dashboard Preview
+
+-  Overview Page
+    ![Overview](Screenshots/overview.png)
+-  Country, Sport & Medalist Analysis
+    ![Details](Screenshots/country_sport_medalist.png)
+
+
 ## 🚀 How to Use
 1. Download the `.pbix` file
 2. Open it in Power BI Desktop
